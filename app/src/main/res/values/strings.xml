@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Market Online</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="error_player">Error</string>
+    <string name="foodmarket">Foodmarket</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="Foodincompatible">Foodincompatible</string>
+    <string name="video">Video</string>
+    <string name="Player_error">error!</string>
+        <string name="title_activity_thucphamkinhau">Thucphamkinhau</string>
+        <string name="title_activity_thuc_pham_ki_nhau">ThucPhamKiNhau</string>
+        <string name="title_activity_body">Body</string>
+        <string name="title_activity_dinh_duong">DinhDuong</string>
+        <string name="title_activity_tre_em">TreEm</string>
+        <string name="title_activity_body_tre_em">BodyTreEm</string>
+        <string name="title_activity_ba_bau">BaBau</string>
+        <string name="title_activity_body_ba_bau">BodyBaBau</string>
+        <string name="title_activity_ng_benh">NgBenh</string>
+        <string name="title_activity_body_ng_benh">BodyNgBenh</string>
+        <string name="title_activity_cong_dung">CongDung</string>
+        <string name="title_activity_body_cong_dung">BodyCongDung</string>
+</resources>

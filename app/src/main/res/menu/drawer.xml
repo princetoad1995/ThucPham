@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/food"
+            android:checked="false"
+            android:icon="@drawable/ic_action_shopping_cart"
+            android:title="@string/foodmarket" />
+
+        <item
+            android:id="@+id/nutri"
+            android:checked="false"
+            android:icon="@drawable/ic_action_favorite"
+            android:title="@string/nutrition" />
+
+        <item
+            android:id="@+id/incom"
+            android:checked="false"
+            android:icon="@drawable/ic_action_report_problem"
+            android:title="@string/Foodincompatible" />
+
+        <item
+            android:id="@+id/vide"
+            android:checked="false"
+            android:icon="@drawable/ic_av_video_collection"
+            android:title="@string/video" />
+    </group>
+</menu>
